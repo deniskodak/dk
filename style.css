@@ -192,3 +192,16 @@ body {
   padding-left: 25px;
   background-image: url("img/insta.svg.png");
 }
+
+.about-me {
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+  font-size: 26px;
+}
+
+ul li {
+  border: solid 2px;
+  border-color: #crimson;
+  padding: 5px;
+  marging: 5px;
+}
