@@ -41,7 +41,7 @@ body {
   background-image: url("img/icon-email-header.svg");
 }
 
-.header-phone {
+.header-insta {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
@@ -188,7 +188,7 @@ body {
   background-image: url("img/icon-email-footer.svg");
 }
 
-.footer-phone {
+.footer-insta {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
